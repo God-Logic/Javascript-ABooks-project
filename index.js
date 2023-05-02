@@ -24,3 +24,10 @@ form.addEventListener('submit', (event) => {
   titleInput.value = '';
   authorInput.value = '';
 });
+
+bookList.addEventListener('click', (event) => {
+  if (event.target.tagName === 'BUTTON') {
+    const bookItem = event.target.parentElement;
+    bookList.removeChild(bookItem);
+  }
+});
