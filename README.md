@@ -1,2 +1,194 @@
-# Javascript-ABooks-project
-This is a java script project, designed to give clients an environment to look for books online. 
+# Awesome books
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Hello Microverse <a name="Capstone project."></a>
+
+> This project is a Website that Introduces a company called Groove Studios, the company is a music recording studio.
+
+**Mobile project setup** is a project 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>html</li>
+    <li>css</li>
+    <li>javascript</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **impressive UI**
+- **user friendly**
+- **great UX**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Developers can use linters to check for errors and bugs. 
+
+### Prerequisites
+
+In order to run this project you need:
+
+
+Example command:
+
+```sh
+ install vs code or any other text editor.
+```
+ 
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://git@github.com:God-Logic/Capstone-Project.git
+```
+
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  node.js V16 and above
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+Example command:
+
+```sh
+  use git bash to open in Vs code
+```
+
+
+### Run tests
+
+To run tests, run the following command:
+
+
+Example command:
+
+```sh
+Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters 
+```
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://god-logic.github.io/Capstone-Project/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Video link to the loom.
+
+follow this link to see the presentation:https://www.loom.com/share/99e7cea0aae84ee3b4e55204a88ccc03
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [God-Logic](https://github.com/God-Logic)
+- Linkedin: [Maboela Maserame](https://www.linkedin.com/in/maboela-maserame-35a3b71b6/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **add linters for different languages**
+- [ ] **create more flexible CSS**
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Follow me on my github if you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse.
+
+Also give credit to the designer Ciny shin and you can follow this link to get in touch with her.   https://www.behance.net/adagio07
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
