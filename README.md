@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="Capstone project."></a>
+# 📖 Hello Microverse <a name="Awesome books"></a>
 
-> This project is a Website that Introduces a company called Groove Studios, the company is a music recording studio.
+> This is a website that is used to manage a book store.
 
 **Mobile project setup** is a project 
 
@@ -80,7 +80,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://git@github.com:God-Logic/Capstone-Project.git
+  git clone
 ```
 
 
@@ -124,14 +124,10 @@ Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://god-logic.github.io/Capstone-Project/)
+- [Live Demo Link](https://god-logic.github.io/ABooks-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-### Video link to the loom.
-
-follow this link to see the presentation:https://www.loom.com/share/99e7cea0aae84ee3b4e55204a88ccc03
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -179,8 +175,6 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse.
-
-Also give credit to the designer Ciny shin and you can follow this link to get in touch with her.   https://www.behance.net/adagio07
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
